@@ -12,5 +12,3 @@ function h($var){
 header('X-FREAM-OPTIONS: SAMEORIGIN');
 
 include_once(dirname(__DIR__).'/lib/validate_helper.php');
-
-include_once(dirname(__DIR__).'/lib/form_helper.php');
