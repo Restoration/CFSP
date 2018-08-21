@@ -48,3 +48,6 @@ input[type="submit"]{
     font-weight: bold;
     font-size: 14px;
 }
+.conf_value{
+	border-bottom: solid 1px #dddddd;
+}
