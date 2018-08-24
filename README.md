@@ -10,7 +10,7 @@ $ git clone https://github.com/Restoration/CFSP.git
 Add the source in this `src` folder to your web site.If you wanna edit html source , Edit this `View` folder.
 
 ## Licence
-[MIT](https://github.com/Restoration/CFSP/blob/master/LICENCE)
+[MIT](https://github.com/Restoration/CFSP/blob/master/LICENSE.md)
 
 ## Author
 [RyotArch](https://github.com/Restoration)  
